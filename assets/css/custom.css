@@ -1,0 +1,14 @@
+.bg-gan {
+  background-image: url('../img/Background.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.bg-sec {
+  background-color: rgba(0,0,0,0.5)
+}
+
+.main-nav > .nav-item > .nav-link {
+  color: white;
+}
